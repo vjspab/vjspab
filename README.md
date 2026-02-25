@@ -1,11 +1,3 @@
-<img src="https://toposmagazine.com/wp-content/uploads/2022/10/denys-nevozhai-7nrsVjvALnA-unsplash-scaled.jpg" width="100%" alt="Smart City Banner" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Urban+%26+Transport+Planner;Geospatial+Data+Modeler;Machine+Learning+Enthusiast;Automating+Infrastructure+Solutions" alt="Typing SVG" />
-
-<br/>
-
 # Vijay Meena 📍📐
 
 **Urban & Transport Planner · Geospatial Data Modeler · ML Practitioner**
