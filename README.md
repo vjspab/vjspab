@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1b2a,50:1a3a5c,100:2E86C1&text=Vijay%20Meena&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Urban%20%26%20Transport%20Planner%20%7C%20Geospatial%20%7C%20ML&descAlignY=58&descSize=18&descColor=a8d8f0&animation=fadeIn" width="100%" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Urban+%26+Transport+Planner+%F0%9F%8C%86;Geospatial+Data+Modeler+%F0%9F%97%BA%EF%B8%8F;Machine+Learning+Practitioner+%F0%9F%A4%96;Automating+Infrastructure+Solutions+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vijay%20Meena-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meenavijay)
 [![Email](https://img.shields.io/badge/Email-townplanner%40duck.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:townplanner@duck.com)
 [![GitHub followers](https://img.shields.io/github/followers/vjspab?style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/vjspab)
