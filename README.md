@@ -1,63 +1,52 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
+# Hi there! [cite_start]👋 I'm Vijay Meena [cite: 1, 177]
 
-  # Hi there, I'm Vijay Meena 👋
-  
-  ### Assistant Town Planner @ Jodhpur Development Authority
-  
-  *Bridging the gap between urban transport planning and data-driven technological solutions.*
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/meenavijay" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:townplanner@duck.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+**Assistant Town Planner | Geospatial Data Enthusiast | [cite_start]Developer** 
+
+[cite_start]I am an Urban and Transport Planner passionate about leveraging technology, spatial data, and machine learning to build climate-resilient cities and optimize infrastructure. [cite: 11, 111, 182] [cite_start]I bridge the gap between traditional town planning and modern software development to automate workflows and drive data-driven urban growth. [cite: 183]
 
 ---
 
-As a transport planner, I believe that planning is a critical tool for addressing urban and rural challenges and maintaining a high quality of life through self-sustaining, climate-resilient economies.
+### 🔭 What I'm Currently Working On
+- [cite_start]**Urban Planning:** Preparing long-term spatial strategies and analyzing transport parameters at the Jodhpur Development Authority. [cite: 181, 182]
+- **Web Development:** Building and deploying React applications (via GitHub to Netlify) to visualize data and improve planning accessibility.
+- **Automation & Scripting:** Writing AutoLISP scripts to streamline AutoCAD layouts and utilizing advanced Excel macros for heavy data processing.
+- **Financial Tech:** Developing custom JavaScript code to analyze index options and market trends. 
 
-## 💼 Professional Background
+### 🛠️ Tech Stack & Tools
 
-- 🏙️ **Urban Planning & Administration**: Currently posted as an Assistant Town Planner at the **Jodhpur Development Authority**.
-- 🚦 **Traffic & Transportation Planning**: Previously served as a Deputy Planner (Traffic and Transportation) at **Lea Associates South Asia Pvt. Ltd.** Over my career, I've worked on high-impact projects like the Decongestion study & transport investment plan for Assam State Capital Region, Mizoram Road Asset Management System (Mizo-RAMS), and the Vijayawada BRTS micro-modelling.
-- 🤖 **Machine Learning & Predictive Modeling**: Developed predictive models for transport and land-use parameters through machine learning, employing Random Forest, Artificial Neural Networks, and Linear Regression techniques for rapid travel demand assessment.
-- 📐 **Mathematical Modeling**: Created mathematical models to estimate Development Control Regulations and road widths for residential neighborhoods based on trip generation and attraction.
-- 🚗 **Micro-simulation**: Conducted complex traffic micro-modelling using softwares like Vissim.
+**Geospatial & Planning:**
+[cite_start]![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white) 
+[cite_start]![ArcGIS](https://img.shields.io/badge/ArcGIS-105CA5?style=for-the-badge&logo=ArcGIS&logoColor=white) 
+[cite_start]![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) 
+[cite_start]![Vissim](https://img.shields.io/badge/PTV_Vissim-005b82?style=for-the-badge) 
 
-## 🎓 Education
+**Programming & Web:**
+[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AutoLISP](https://img.shields.io/badge/AutoLISP-000000?style=for-the-badge)
 
-- **Master of Planning (Transport Planning)** — *School of Planning and Architecture, New Delhi*
-  - *Thesis*: Rapid travel demand assessment for urban areas
-- **Bachelor of Planning** — *School of Planning and Architecture, Bhopal*
-  - *Thesis*: Determining the effect of land use characteristics on trip rates in residential areas - A case of Jaipur
-
-## 🛠️ Tech Stack & Tools
-
-### 📊 Programming, Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=c&logoColor=white)
-*Rapidminer, SPSS, STATA*
-
-### 🗺️ GIS & Spatial Analysis
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
-*ArcGIS, ERDAS Imagine, Mapbox, ESRI City Engine*
-
-### 🚌 Transport Modeling & Simulation
-*Visum, Vissim, Cube, Transcad, Tranus*
-
-### 🎨 CAD & Multimedia Design
-![AutoCAD](https://img.shields.io/badge/AutoCAD-DF2A2F?style=flat-square&logo=autodesk&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20CC-FF0000?style=flat-square&logo=adobe&logoColor=white)
-*Illustrator, Photoshop, InDesign, After Effects, Premier Pro, Muse, Sony Vegas, Audacity*
+**Data Science & Machine Learning:**
+[cite_start]![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+[cite_start]![SPSS](https://img.shields.io/badge/SPSS-CC292B?style=for-the-badge&logo=ibm&logoColor=white) 
+![VBA/Macros](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjspab&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjspab&theme=radical&hide_border=true" width="48%" />
-</div>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true" />
+</p>
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the links above with your actual GitHub username to activate the stat cards!)*
+
+---
+
+### 📫 Let's Connect
+- [cite_start]**LinkedIn:** [linkedin.com/in/meenavijay](https://www.linkedin.com/in/meenavijay) [cite: 163]
+- [cite_start]**Email:** vjspab@gmail.com [cite: 9, 162]
+
+[cite_start]🎓 *M.Plan (Transport Planning) - School of Planning and Architecture, New Delhi* [cite: 200]
+[cite_start]🎓 *B.Plan - School of Planning and Architecture, Bhopal* [cite: 201]
