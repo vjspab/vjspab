@@ -1,8 +1,4 @@
 <div align="center">
-  <!-- Flawless City Banner -->
-  <img src="https://toposmagazine.com/wp-content/uploads/2022/10/denys-nevozhai-7nrsVjvALnA-unsplash-scaled.jpg" width="100%" alt="Smart City Banner" />
-  <br><br>
-
   <h1>Vijay Meena 📍📐</h1>
 
   <!-- Smooth Animated Typing Effect -->
