@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?q=80&w=2000&auto=format&fit=crop" width="100%" height="250" style="object-fit: cover;" alt="Smart City Banner">
+<img src="[https://toposmagazine.com/wp-content/uploads/2022/10/denys-nevozhai-7nrsVjvALnA-unsplash-scaled.jpg&auto=format&fit=crop" width="100%" height="250" style="object-fit: cover;" alt="Smart City Banner">
 
 <h1 align="center">Vijay Meena</h1>
 
